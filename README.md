@@ -1,4 +1,4 @@
-## Aboue this Project
+## About this Project
 Flappy Bird by Java Project : In this project I created a Flappy Bird game with Java awt/swing graphics. Create a game loop, collision detection between Flappy Bird and pipes, and add the running score.
 
 ## Getting Started
