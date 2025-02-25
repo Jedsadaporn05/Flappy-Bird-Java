@@ -1,3 +1,6 @@
+## Aboue this Project
+Flappy Bird by Java Project : In this project I created a Flappy Bird game with Java awt/swing graphics. Create a game loop, collision detection between Flappy Bird and pipes, and add the running score.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
